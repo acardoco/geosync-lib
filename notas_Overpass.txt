@@ -1,0 +1,8 @@
+A hacer:
+
+	-peticion a url-OK
+	-operaciones sobre BD-OK
+	-pulir lo de los filtros(hay que pasarselos a mano segun el tipo)
+		-se los pasamos desde geosync: tanto el string con los filtros para la url como los filtrosNumericos porque hay que hacer
+		llamadas al servicio para obtenerlos
+		("new ArrayList<FiltroNumerico>()" en vez de "null")
